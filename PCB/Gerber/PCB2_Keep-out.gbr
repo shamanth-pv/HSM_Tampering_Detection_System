@@ -1,0 +1,21 @@
+%TF.GenerationSoftware,Altium Limited,DefaultClient, ()*%
+G04 Layer_Color=16711935*
+G04 Board_Origin=0|0*
+%FSLAX26Y26*%
+%MOIN*%
+%TF.SameCoordinates,722044AA-65B8-4CCE-AC31-A48EA2AF6ED6*%
+%TF.FilePolarity,Positive*%
+%TF.FileFunction,Keep-out,Top*%
+%TF.Part,Single*%
+G01*
+G75*
+G36*
+X3133465Y3152205D02*
+X3566535D01*
+Y3427795D01*
+X3133465D01*
+Y3152205D01*
+D02*
+G37*
+%TF.MD5,1b4d2f7020336fae6c333c29b5a59af2*%
+M02*

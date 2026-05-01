@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 6:36:16 AM On 5/1/2026
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB2.PcbDoc]
+   Generated File[PCB2.TXT]
+   Generated File[PCB2.LDP]
+   Generated File[PCB2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:36:16 AM On 5/1/2026
